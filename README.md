@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octopus zhang</h1>
 <h3 align="center">A Master of Qinghai University</h3>
 
-- 🌱 I’m currently learning **Remote Sensing Imagery Processing**
+- 🌱 I am currently working in the field of **supply chain algorithms**, dedicated to reducing product losses.
 
 - 👨‍💻 All of my projects are available at [https://github.com/XavierJiezou?tab=repositories](https://github.com/XavierJiezou?tab=repositories)
 
