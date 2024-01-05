@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/XavierJiezou?tab=repositories](https://github.com/XavierJiezou?tab=repositories)
 
-- 📝 I regularly write articles on [https://blog.csdn.net/qq_42951560](https://blog.csdn.net/qq_42951560)
+- 📝 I regularly write articles on [https://blog.csdn.net/zy345293721?type=blog)
 
-- 💬 Ask me about **Python, PyTorch and Deep Learning**
+- 💬 Ask me about **Java, Python, Scala and Pytorch**
 
-- 📫 How to reach me **xuechaozou@foxmail.com**
+- 📫 How to reach me **zhangyuyu417@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
