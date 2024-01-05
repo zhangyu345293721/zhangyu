@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xuechao Zou</h1>
+<h1 align="center">Hi 👋, I'm Octopus zhang</h1>
 <h3 align="center">A Master of Qinghai University</h3>
 
 - 🌱 I’m currently learning **Remote Sensing Imagery Processing**
