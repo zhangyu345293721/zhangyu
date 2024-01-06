@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Octopus zhang</h1>
-<h3 align="center">Dingdong Maicai Senior Algorithm Engineer</h3>
 
 - 🌱 I am currently working in the field of **supply chain algorithms**, dedicated to reducing product losses.
 
