@@ -24,5 +24,5 @@
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyu345293721&hide=javascript,html,css,fortran&theme=vue-dark" height="195px" width="400px" title="Top Langs" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyu345293721&hide=javascript,html,css,fortran&theme=vue-dark" height="195px" width="1000px" title="Top Langs" alt="Top Langs"/>
 </a>
