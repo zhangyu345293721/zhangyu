@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [zhangyu345293721](https://github.com/zhangyu345293721?tab=repositories)
 
-- 📝 I regularly write articles on [blog]https://blog.csdn.net/zy345293721?type=blog)
+- 📝 I regularly write articles on [blog](https://blog.csdn.net/zy345293721?type=blog)
 
 - 💬 Ask me about **Java, Python, Scala and Rust**
 
