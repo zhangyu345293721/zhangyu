@@ -2,9 +2,9 @@
 
 - 🌱 I am currently working in the field of **supply chain algorithms**, dedicated to reducing product losses.
 
-- 👨‍💻 All of my projects are available at [https://github.com/zhangyu345293721?tab=repositories)
+- 👨‍💻 All of my projects are available at [zhangyu345293721](https://github.com/zhangyu345293721?tab=repositories)
 
-- 📝 I regularly write articles on [https://blog.csdn.net/zy345293721?type=blog)
+- 📝 I regularly write articles on [blog]https://blog.csdn.net/zy345293721?type=blog)
 
 - 💬 Ask me about **Java, Python, Scala and Rust**
 
