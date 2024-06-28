@@ -6,7 +6,7 @@
 
 <!-- - 📝 I regularly write articles on [blog](https://blog.csdn.net/zy345293721?type=blog)  -->
 
-- 💬 Ask me about **Java, Python, Scala and Rust**
+- 💬 Ask me about **Java, Python and Scala**
 
 - 📫 How to reach me **zhangyuyu417@gmail.com**
 
